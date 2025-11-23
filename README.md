@@ -46,6 +46,18 @@ To contribute to innovative and meaningful software solutions while strengthenin
 
 ---
 
+## 🎓 Education
+
+- **Bachelor of Engineering in Computer Science**
+  - *Chandigarh University* | **Aug 2022 – Present**
+  - **CGPA:** 7.1
+
+- **High School (Class XII)**
+  - *Satish Public Sr. Sec. School, Rewari, Haryana* | **June 2014 – May 2022**
+  - **Score:** 74%
+
+---
+
 🏅 **Certifications**
 - Data Structures and Algorithms (C++) — CODEHELP  
 - Databases Bootcamp — SQL  
