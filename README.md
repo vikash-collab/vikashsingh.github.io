@@ -42,8 +42,8 @@ To contribute to innovative and meaningful software solutions while strengthenin
 
 ## 🎓 Education
 
-- **B.E. in Computer Science** — Chandigarh University (2022–present)  
-- **Intermediate** — Satish Public Sr. Sec. School, Rewari, Haryana :contentReference[oaicite:6]{index=6}
+- **Bachelor's in Computer Science and Engineering** | [Chandigarh University] | (Aug2022–present) | CGPA: 7.1 
+- **High School** — Satish Public Sr. Sec. School, Rewari(Haryana) | June2014 - May2022 | Score: 74%
 
 ---
 
@@ -63,7 +63,7 @@ To contribute to innovative and meaningful software solutions while strengthenin
 📬 **Let's Connect!**
 - 📧 Email: **vikashsingh171104@gmail.com**  
 - 🐙 GitHub: [github.com/vikash-collab](https://github.com/vikash-collab)  
-- 💼 LinkedIn: *([linkedin.com](https://www.linkedin.com/in/vikash-singh-02231624a/))*  
+- 💼 LinkedIn: [linkedin.com](https://www.linkedin.com/in/vikash-singh-02231624a/) 
 - 📍 Location: India  
 
 ---
