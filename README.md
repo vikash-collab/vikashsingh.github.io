@@ -41,8 +41,7 @@ To contribute to innovative and meaningful software solutions while strengthenin
 ---
 
 ## 🎓 Education
-
-- Bachelor's in Computer Science and Engineering | [Chandigarh University] | Aug2022–present | CGPA: 7.1 
+- Bachelor's in Computer Science | [Chandigarh University] | Aug2022–present | CGPA: 7.1 
 - High School | Satish Public Sr. Sec. School, Rewari(Haryana) | June2014 - May2022 | Score: 74%
 
 ---
