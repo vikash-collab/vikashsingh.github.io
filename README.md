@@ -40,6 +40,13 @@ To contribute to innovative and meaningful software solutions while strengthenin
 
 ---
 
+## 🎓 Education
+
+- **B.E. in Computer Science** — Chandigarh University (2022–present)  
+- **Intermediate** — Satish Public Sr. Sec. School, Rewari, Haryana :contentReference[oaicite:6]{index=6}
+
+---
+
 🏅 **Certifications**
 - Data Structures and Algorithms (C++) — CODEHELP  
 - Databases Bootcamp — SQL  
