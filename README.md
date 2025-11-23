@@ -62,8 +62,8 @@ To contribute to innovative and meaningful software solutions while strengthenin
 
 📬 **Let's Connect!**
 - 📧 Email: **vikashsingh171104@gmail.com**  
-- 🐙 GitHub: [github.com/vikash-collab](https://github.com/vikash-collab)  
-- 💼 LinkedIn: [linkedin.com](https://www.linkedin.com/in/vikash-singh-02231624a/) 
+- 🐙 GitHub: *[[github.com/vikash-collab](https://github.com/vikash-collab)]*  
+- 💼 LinkedIn: *[[linkedin.com](https://www.linkedin.com/in/vikash-singh-02231624a/)]* 
 - 📍 Location: India  
 
 ---
